@@ -1,0 +1,3 @@
+usuario = alots, senha = 123456;
+usuario = rafael, senha = 123456;
+usuario = vitor, senha = 123456;
